@@ -34,26 +34,21 @@
 
 
 :large_blue_diamond: Kubernetes Architecture
-
 [Kubernetes Architecture](https://kubernetes.io/docs/concepts/overview/components/)
 
 :large_blue_diamond: Kubernetes API
-
 [Kubernetes API](https://kubernetes.io/docs/reference/)
 
 :large_blue_diamond: Containers
-
 [Containers](https://kubernetes.io/docs/concepts/containers/)
 
 :large_blue_diamond: Scheduling
-
 [Scheduling](https://kubernetes.io/docs/concepts/scheduling-eviction/) 
 
 
 ### Container Orchestration - 22%
 
 :large_blue_diamond: Container Orchestration Fundamentals
-
 [Container Orchestration Fundamentals](TBD)
 
 :large_blue_diamond: Runtime
@@ -63,13 +58,13 @@
 [Security](https://kubernetes.io/docs/tasks/configure-pod-container/security-context/)
 
 :large_blue_diamond: Networking
-[Networking]: (https://kubernetes.io/docs/concepts/services-networking/)
+[Networking](https://kubernetes.io/docs/concepts/services-networking/)
 
 :large_blue_diamond: Service Mesh
-[Service Mesh]: (TBD)
+[Service Mesh](TBD)
 
 :large_blue_diamond: Storage
-[Storage]: (https://kubernetes.io/docs/concepts/storage/)
+[Storage](https://kubernetes.io/docs/concepts/storage/)
 
 
 
