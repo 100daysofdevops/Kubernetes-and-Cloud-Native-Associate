@@ -25,7 +25,7 @@
 
 ### Kubernetes Fundamentals - 46%
 
-:large_blue_circle: Kubernetes Resources 
+:large_blue_diamond: Kubernetes Resources 
 
 1. [Kubernetes Pod](https://kubernetes.io/docs/concepts/workloads/pods/)
 2. [ReplicaSet](https://kubernetes.io/docs/concepts/workloads/controllers/replicaset/)
@@ -48,6 +48,33 @@
 :large_blue_diamond: Scheduling
 
 [Scheduling](https://kubernetes.io/docs/concepts/scheduling-eviction/) 
+
+
+### Container Orchestration - 22%
+
+:large_blue_diamond: Container Orchestration Fundamentals
+
+[Container Orchestration Fundamentals](TBD)
+
+:large_blue_diamond: Runtime
+[Runtime](https://kubernetes.io/docs/setup/production-environment/container-runtimes/)
+
+:large_blue_diamond: Security
+[Security](https://kubernetes.io/docs/tasks/configure-pod-container/security-context/)
+
+:large_blue_diamond: Networking
+[Networking]: (https://kubernetes.io/docs/concepts/services-networking/)
+
+:large_blue_diamond: Service Mesh
+[Service Mesh]: (TBD)
+
+:large_blue_diamond: Storage
+[Storage]: (https://kubernetes.io/docs/concepts/storage/)
+
+
+
+
+
 
 
 
