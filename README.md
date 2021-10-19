@@ -68,6 +68,19 @@
 [Storage](https://kubernetes.io/docs/concepts/storage/)
 
 
+### Cloud Native Architecture - 16%
+
+TBD
+
+### Cloud Native Observability - 8%
+
+TBD
+
+### Cloud Native Application Delivery - 8%
+
+TBD
+
+
 
 
 
