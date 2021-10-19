@@ -21,3 +21,8 @@
 - [X] Cloud Native Architecture - 16%
 - [X] Cloud Native Observability - 8%
 - [X] Cloud Native Application Delivery - 8%
+
+
+### Kubernetes Fundamentals - 46%
+
+:large_green_circle: Kubernetes Resources 
