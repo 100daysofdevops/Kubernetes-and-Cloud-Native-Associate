@@ -25,4 +25,4 @@
 
 ### Kubernetes Fundamentals - 46%
 
-:large_blue_circle: Kubernetes Resources 
+:large_blue_diamond: Kubernetes Resources 
