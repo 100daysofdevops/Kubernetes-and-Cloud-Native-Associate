@@ -33,7 +33,7 @@
 4. [Service](https://kubernetes.io/docs/concepts/services-networking/service/)
 
 
-:large_blue_diamond: Kubernetes Architecture
+:large_blue_circle: Kubernetes Architecture
 
 1. [Kubernetes Architecture](https://kubernetes.io/docs/concepts/overview/components/)
 
