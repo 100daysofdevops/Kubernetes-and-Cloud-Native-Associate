@@ -26,3 +26,8 @@
 ### Kubernetes Fundamentals - 46%
 
 :large_blue_diamond: Kubernetes Resources 
+
+1. [Kubernetes Pod](https://kubernetes.io/docs/concepts/workloads/pods/)
+2. [ReplicaSet](https://kubernetes.io/docs/concepts/workloads/controllers/replicaset/)
+3. [Deployments](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/)
+4. [Service](https://kubernetes.io/docs/concepts/services-networking/service/)
