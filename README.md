@@ -46,6 +46,7 @@
 [Scheduling](https://kubernetes.io/docs/concepts/scheduling-eviction/) 
 
 
+
 ### Container Orchestration - 22%
 
 :large_blue_diamond: Container Orchestration Fundamentals
