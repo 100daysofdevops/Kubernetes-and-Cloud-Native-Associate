@@ -35,17 +35,17 @@
 
 :large_blue_circle: Kubernetes Architecture
 
-1. [Kubernetes Architecture](https://kubernetes.io/docs/concepts/overview/components/)
+[Kubernetes Architecture](https://kubernetes.io/docs/concepts/overview/components/)
 
 :large_blue_diamond: Kubernetes API
 
-1. [Kubernetes API](https://kubernetes.io/docs/reference/)
+[Kubernetes API](https://kubernetes.io/docs/reference/)
 
 :large_blue_diamond: Containers
 
-1. [Containers](https://kubernetes.io/docs/concepts/containers/)
+[Containers](https://kubernetes.io/docs/concepts/containers/)
 
 :large_blue_diamond: Scheduling
 
-1. [Scheduling](https://kubernetes.io/docs/concepts/scheduling-eviction/) 
+[Scheduling](https://kubernetes.io/docs/concepts/scheduling-eviction/) 
 
