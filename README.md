@@ -13,3 +13,11 @@
 - Passing Score: Unknown at this Point
 - Certification Validity: 3 years
 - Exam Cost: $250 with one free atempt and one year validity
+
+## KCNA Topics
+
+- [X] Kubernetes Fundamentals - 46%
+- [X] Container Orchestration - 22%
+- [X] Cloud Native Architecture - 16%
+- [X] Cloud Native Observability - 8%
+- [X] Cloud Native Application Delivery - 8%
