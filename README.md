@@ -110,6 +110,12 @@
 [CI/CD](https://www.containiq.com/post/cicd-pipelines-with-kubernetes)
 
 
+### Training Material
+
+1. [Certified Kubernetes Administrator (CKA) with Practice Tests](https://www.udemy.com/course/certified-kubernetes-administrator-with-practice-tests/)
+2. [Introduction to GitOps (LFS169)](https://training.linuxfoundation.org/training/introduction-to-gitops-lfs169/)
+
+
 
 
 
