@@ -70,15 +70,45 @@
 
 ### Cloud Native Architecture - 16%
 
-TBD
+:large_blue_diamond: Autoscaling
+[Autoscaling](https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/)
+
+:large_blue_diamond: Serverless
+[Serverless](TBD)
+
+:large_blue_diamond: Community and Governance
+[Community and Governance](TBD)
+
+:large_blue_diamond: Personas
+[Personas](TBD)
+
+:large_blue_diamond: Open Standards
+[Open Standards](TBD)
+
 
 ### Cloud Native Observability - 8%
 
-TBD
+:large_blue_diamond: Telemetry & Observability
+[Telemetry & Observability](TBD)
+
+:large_blue_diamond: Prometheus
+[Prometheus](TBD)
+
+:large_blue_diamond: Cost Management
+[Cost Management](TBD)
+
 
 ### Cloud Native Application Delivery - 8%
 
-TBD
+:large_blue_diamond: Application Delivery Fundamentals
+[Application Delivery Fundamentals](TBD)
+
+:large_blue_diamond: GitOps
+[GitOps](TBD)
+
+:large_blue_diamond: CI/CD
+[CI/CD](TBD)
+
 
 
 
