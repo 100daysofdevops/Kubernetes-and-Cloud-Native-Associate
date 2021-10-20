@@ -62,7 +62,7 @@
 [Networking](https://kubernetes.io/docs/concepts/services-networking/)
 
 :large_blue_diamond: Service Mesh
-[Service Mesh](TBD)
+[Service Mesh](https://www.redhat.com/en/topics/microservices/what-is-a-service-mesh)
 
 :large_blue_diamond: Storage
 [Storage](https://kubernetes.io/docs/concepts/storage/)
@@ -74,16 +74,16 @@
 [Autoscaling](https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/)
 
 :large_blue_diamond: Serverless
-[Serverless](TBD)
+[Serverless](https://developers.redhat.com/coderland/serverless/serverless-knative-intro#)
 
 :large_blue_diamond: Community and Governance
-[Community and Governance](TBD)
+[Community and Governance](https://github.com/kubernetes/community/blob/master/governance.md)
 
 :large_blue_diamond: Personas
-[Personas](TBD)
+[Personas](https://cluster-api.sigs.k8s.io/user/personas.html)
 
 :large_blue_diamond: Open Standards
-[Open Standards](TBD)
+[Open Standards](https://thenewstack.io/open-standards-and-the-role-of-containerd-in-kubernetes-orchestration/)
 
 
 ### Cloud Native Observability - 8%
@@ -92,10 +92,10 @@
 [Telemetry & Observability](TBD)
 
 :large_blue_diamond: Prometheus
-[Prometheus](TBD)
+[Prometheus](https://opensource.com/article/19/11/introduction-monitoring-prometheus)
 
 :large_blue_diamond: Cost Management
-[Cost Management](TBD)
+[Cost Management](https://searchitoperations.techtarget.com/tip/Kubernetes-cost-management-approaches-to-save-money)
 
 
 ### Cloud Native Application Delivery - 8%
@@ -104,10 +104,10 @@
 [Application Delivery Fundamentals](TBD)
 
 :large_blue_diamond: GitOps
-[GitOps](TBD)
+[GitOps](https://www.redhat.com/en/topics/devops/what-is-gitops)
 
 :large_blue_diamond: CI/CD
-[CI/CD](TBD)
+[CI/CD](https://www.containiq.com/post/cicd-pipelines-with-kubernetes)
 
 
 
