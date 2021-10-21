@@ -14,6 +14,9 @@
 - Certification Validity: 3 years
 - Exam Cost: $250 with one free atempt and one year validity
 
+## Exam Objective
+- [KCNA Exam Objective](https://github.com/cncf/curriculum/blob/master/KCNA_Curriculum.pdf)
+
 ## KCNA Topics
 
 - [X] Kubernetes Fundamentals - 46%
@@ -41,31 +44,38 @@
 
 :large_blue_diamond: Containers
 [Containers](https://kubernetes.io/docs/concepts/containers/)
+[Docker Tutorial for Beginners](https://www.youtube.com/watch?v=fqMOX6JJhGo)
 
 :large_blue_diamond: Scheduling
-[Scheduling](https://kubernetes.io/docs/concepts/scheduling-eviction/) 
+[Scheduling](https://kubernetes.io/docs/concepts/scheduling-eviction/)
+[How the Kubernetes scheduler works](https://www.youtube.com/watch?v=rDCWxkvPlAw)
+[How Scheduling in Kubernetes Works ](https://www.youtube.com/watch?v=0FvQR-0tK54)
 
 
 
 ### Container Orchestration - 22%
 
 :large_blue_diamond: Container Orchestration Fundamentals
-[Container Orchestration Fundamentals](TBD)
+[Container Orchestration Fundamentals](https://www.youtube.com/watch?v=kBF6Bvth0zw&t=3s)
 
 :large_blue_diamond: Runtime
 [Runtime](https://kubernetes.io/docs/setup/production-environment/container-runtimes/)
+[Container Runtime](https://www.youtube.com/watch?v=RyXL1zOa8Bw)
 
 :large_blue_diamond: Security
 [Security](https://kubernetes.io/docs/tasks/configure-pod-container/security-context/)
+[Kubernetes Security](https://www.youtube.com/watch?v=wqsUfvRyYpw)
 
 :large_blue_diamond: Networking
 [Networking](https://kubernetes.io/docs/concepts/services-networking/)
+[Container Networking From Scratch](https://www.youtube.com/watch?v=6v_BDHIgOY8)
 
 :large_blue_diamond: Service Mesh
 [Service Mesh](https://www.redhat.com/en/topics/microservices/what-is-a-service-mesh)
 
 :large_blue_diamond: Storage
 [Storage](https://kubernetes.io/docs/concepts/storage/)
+[Kubernetes Storage](https://www.youtube.com/watch?v=uSxlgK1bCuA)
 
 
 ### Cloud Native Architecture - 16%
