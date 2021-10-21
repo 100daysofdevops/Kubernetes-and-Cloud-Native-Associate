@@ -105,7 +105,8 @@
 [Prometheus](https://opensource.com/article/19/11/introduction-monitoring-prometheus)
 
 :large_blue_diamond: Cost Management
-[Cost Management](https://searchitoperations.techtarget.com/tip/Kubernetes-cost-management-approaches-to-save-money)
+- [Cost Management](https://searchitoperations.techtarget.com/tip/Kubernetes-cost-management-approaches-to-save-money)
+- [Cost Visibility and Optimization in Kubernetes](https://www.youtube.com/watch?v=JhJF5AvtshM)
 
 
 ### Cloud Native Application Delivery - 8%
@@ -117,7 +118,8 @@
 [GitOps](https://www.redhat.com/en/topics/devops/what-is-gitops)
 
 :large_blue_diamond: CI/CD
-[CI/CD](https://www.containiq.com/post/cicd-pipelines-with-kubernetes)
+- [CI/CD](https://www.containiq.com/post/cicd-pipelines-with-kubernetes)
+- [Argo CD Kubernetes](https://www.youtube.com/playlist?list=PL34sAs7_26wMW4bWKnMIfEd87aPuw75by)
 
 
 ### Training Material
