@@ -43,8 +43,8 @@
 [Kubernetes API](https://kubernetes.io/docs/reference/)
 
 :large_blue_diamond: Containers
-[Containers](https://kubernetes.io/docs/concepts/containers/)
-[Docker Tutorial for Beginners](https://www.youtube.com/watch?v=fqMOX6JJhGo)
+- [Containers](https://kubernetes.io/docs/concepts/containers/)
+- [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=fqMOX6JJhGo)
 
 :large_blue_diamond: Scheduling
 [Scheduling](https://kubernetes.io/docs/concepts/scheduling-eviction/)
