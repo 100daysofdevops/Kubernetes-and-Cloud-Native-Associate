@@ -36,6 +36,8 @@
 4. [Service](https://kubernetes.io/docs/concepts/services-networking/service/) 
 
 
+:large_blue_diamond: Kubernetes Imperative Commands
+[Kubernetes Imperative Commands](https://kubernetes.io/docs/tasks/manage-kubernetes-objects/imperative-command/)
 
 :large_blue_diamond: Kubernetes Architecture
 [Kubernetes Architecture](https://www.redhat.com/en/topics/containers/kubernetes-architecture)
@@ -78,6 +80,8 @@
 - [Storage](https://kubernetes.io/docs/concepts/storage/)
 - [Kubernetes Storage](https://www.youtube.com/watch?v=uSxlgK1bCuA)
 
+:large_blue_diamond: Deployment vs StatefulSet
+[Deployment vs StatefulSet](https://stackoverflow.com/questions/41583672/kubernetes-deployments-vs-statefulsets)
 
 ### Cloud Native Architecture - 16%
 
