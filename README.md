@@ -10,7 +10,7 @@
 - Duration : 90 minutes
 - Number of questions: 60
 - Question Types: Single Choice(It says multiple choice, but in my exam, there is no multiple choice question)
-- Passing Score: Unknown at this Point
+- Passing Score: 75
 - Certification Validity: 3 years
 - Exam Cost: $250 with one free atempt and one year validity
 
@@ -69,6 +69,7 @@
 :large_blue_diamond: Security
 - [Security](https://kubernetes.io/docs/tasks/configure-pod-container/security-context/)
 - [Kubernetes Security](https://www.youtube.com/watch?v=wqsUfvRyYpw)
+- [RBAC](https://www.youtube.com/watch?v=4HMRFcg6nEY)
 
 :large_blue_diamond: Networking
 - [Networking](https://kubernetes.io/docs/concepts/services-networking/)
