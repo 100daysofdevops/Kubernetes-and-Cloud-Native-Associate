@@ -7,9 +7,9 @@
 ## Exam Details
 
 * [CNCF Official Link ](https://training.linuxfoundation.org/certification/kubernetes-cloud-native-associate/?utm_source=lftraining&utm_medium=pr&utm_campaign=kcna1021)
-- Duration : 90 minutes(** 120 minutes for the KCNA-BETA)
-- Number of questions: Unknown at this Point
-- Question Types: Multiple Choice
+- Duration : 90 minutes
+- Number of questions: 60
+- Question Types: Single Choice(It says multiple choice, but in my exam, there is no multiple choice question)
 - Passing Score: Unknown at this Point
 - Certification Validity: 3 years
 - Exam Cost: $250 with one free atempt and one year validity
@@ -36,8 +36,9 @@
 4. [Service](https://kubernetes.io/docs/concepts/services-networking/service/) 
 
 
+
 :large_blue_diamond: Kubernetes Architecture
-[Kubernetes Architecture](https://kubernetes.io/docs/concepts/overview/components/)
+[Kubernetes Architecture](https://www.redhat.com/en/topics/containers/kubernetes-architecture)
 
 :large_blue_diamond: Kubernetes API
 [Kubernetes API](https://kubernetes.io/docs/reference/)
