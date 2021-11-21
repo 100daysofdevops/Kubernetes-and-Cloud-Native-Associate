@@ -55,6 +55,10 @@
 - [How Scheduling in Kubernetes Works ](https://www.youtube.com/watch?v=0FvQR-0tK54)
 
 
+:large_blue_diamond:cloudnative-glossary
+[cloudnative-glossary](https://github.com/cncf/glossary/blob/main/cloudnative-glossary.pdf)
+
+
 
 ### Container Orchestration - 22%
 
