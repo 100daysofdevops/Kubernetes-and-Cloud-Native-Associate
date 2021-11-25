@@ -88,6 +88,7 @@
 :large_blue_diamond: Runtime
 - [Runtime](https://kubernetes.io/docs/setup/production-environment/container-runtimes/)
 - [Container Runtime](https://www.youtube.com/watch?v=RyXL1zOa8Bw)
+- [Kubernetes drops docker](https://www.youtube.com/watch?v=AkfE8PBQnPs)
 
 
 :large_blue_diamond: Security
