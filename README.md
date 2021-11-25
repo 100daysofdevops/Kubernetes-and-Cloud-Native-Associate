@@ -36,6 +36,25 @@
 4. [Service](https://kubernetes.io/docs/concepts/services-networking/service/) 
 
 
+:large_blue_diamond: Cloud Native Architecture Fundamentals
+[Cloud Native Architecture Fundamentals](https://medium.com/walmartglobaltech/cloud-native-architecture-fundamentals-ac13f979916d)
+
+:large_blue_diamond: 10 KEY ATTRIBUTES OF CLOUD-NATIVE APPLICATIONS
+[10 KEY ATTRIBUTES OF CLOUD-NATIVE APPLICATIONS](https://thenewstack.io/10-key-attributes-of-cloud-native-applications/)
+
+
+:large_blue_diamond: Scaling Horizontally vs. Scaling Vertically
+[Scaling Horizontally vs. Scaling Vertically](https://www.section.io/blog/scaling-horizontally-vs-vertically/)
+
+:large_blue_diamond: Serverless
+[Serverless](https://www.redhat.com/en/topics/cloud-native-apps/what-is-serverless)
+
+:large_blue_diamond: Making Sense of the Container Runtime Landscape in Kubernetes
+[Making Sense of the Container Runtime Landscape in Kubernetes](https://www.youtube.com/watch?v=RyXL1zOa8Bw)
+
+:large_blue_diamond: Differences between Site Reliability Engineer Vs. Software Engineer Vs. Cloud Engineer Vs. DevOps Engineer
+[Differences between Site Reliability Engineer Vs. Software Engineer Vs. Cloud Engineer Vs. DevOps Engineer](https://www.squadcast.com/blog/differences-between-site-reliability-engineer-vs-software-engineer-vs-cloud-engineer-vs-devops-engineer)
+
 :large_blue_diamond: Kubernetes Imperative Commands
 [Kubernetes Imperative Commands](https://kubernetes.io/docs/tasks/manage-kubernetes-objects/imperative-command/)
 
