@@ -67,6 +67,7 @@
 :large_blue_diamond: Containers
 - [Containers](https://kubernetes.io/docs/concepts/containers/)
 - [Docker Tutorial for Beginners](https://www.youtube.com/watch?v=fqMOX6JJhGo)
+- [Dockerfile Best Practices](https://www.youtube.com/watch?v=JofsaZ3H1qM)
 
 :large_blue_diamond: Scheduling
 [Scheduling](https://kubernetes.io/docs/concepts/scheduling-eviction/)
@@ -93,6 +94,8 @@
 - [Security](https://kubernetes.io/docs/tasks/configure-pod-container/security-context/)
 - [Kubernetes Security](https://www.youtube.com/watch?v=wqsUfvRyYpw)
 - [RBAC](https://www.youtube.com/watch?v=4HMRFcg6nEY)
+- [The 4C's of Cloud Native security](https://kubernetes.io/docs/concepts/security/overview/#the-4c-s-of-cloud-native-security)
+
 
 :large_blue_diamond: Networking
 - [Networking](https://kubernetes.io/docs/concepts/services-networking/)
@@ -100,6 +103,7 @@
 
 :large_blue_diamond: Service Mesh
 [Service Mesh](https://www.redhat.com/en/topics/microservices/what-is-a-service-mesh)
+[Istio Architecture](https://istio.io/latest/docs/ops/deployment/architecture/)
 
 :large_blue_diamond: Storage
 - [Storage](https://kubernetes.io/docs/concepts/storage/)
