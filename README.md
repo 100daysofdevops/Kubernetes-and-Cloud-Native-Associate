@@ -5,7 +5,7 @@
 </p>
 
 ## KCNA Exam Simulator
-https://www.101daysofdevops.com/courses/kubernetes-and-cloud-native-essentials-lfs250/quizzes/kubernetes-and-cloud-native-essentials-exam/
+[KCNA Exam Simulator](https://www.101daysofdevops.com/courses/kubernetes-and-cloud-native-essentials-lfs250/quizzes/kubernetes-and-cloud-native-essentials-exam/)
 
 
 ## Exam Details
