@@ -4,6 +4,10 @@
   <img width="360" src="KCNA-Logo-300x300.png">
 </p>
 
+## KCNA Exam Simulator
+https://www.101daysofdevops.com/courses/kubernetes-and-cloud-native-essentials-lfs250/quizzes/kubernetes-and-cloud-native-essentials-exam/
+
+
 ## Exam Details
 
 * [CNCF Official Link ](https://training.linuxfoundation.org/certification/kubernetes-cloud-native-associate/?utm_source=lftraining&utm_medium=pr&utm_campaign=kcna1021)
