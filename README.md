@@ -16,7 +16,7 @@
 - Question Types: Single Choice(It says multiple choice, but in my exam, there is no multiple choice question)
 - Passing Score: 75
 - Certification Validity: 3 years
-- Exam Cost: $250 with one free atempt and one year validity
+- Exam Cost: $250 with one free attempt and one year validity
 
 ## Exam Objective
 - [KCNA Exam Objective](https://github.com/cncf/curriculum/blob/master/KCNA_Curriculum.pdf)
